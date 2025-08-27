@@ -24,10 +24,6 @@ We offer a range of services tailored to meet the needs of socially conscious bu
 
 If you are a business committed to creating a positive impact, we would love to hear from you. We are always seeking new opportunities to collaborate on projects that align with our core values.
 
-*   **Visit our website:** Learn more about our portfolio and success stories at **[www.justcreate.com](https://www.justcreate.com)**.
-*   **Start a conversation:** Reach out to us directly at **[hello@justcreate.com](mailto:hello@justcreate.com)** to discuss your project.
-*   **Connect on Social Media:** Follow our journey and see our latest work on **[LinkedIn](https://www.linkedin.com/company/justcreate)**.
-
 ## 👥 Our Team
 
 We are a team of passionate developers, designers, and strategists dedicated to our mission. Our collective experience spans decades in the technology sector, but our hearts are in the positive change we can bring to the world.
